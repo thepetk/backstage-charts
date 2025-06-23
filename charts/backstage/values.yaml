@@ -117,7 +117,7 @@ backstage:
     repository: backstage/backstage
 
     # -- Backstage image tag (immutable tags are recommended)
-    tag: latest
+    tag: 1.40.1
 
     # -- Backstage image digest (digest takes precedence over image tag)
     digest: ""
